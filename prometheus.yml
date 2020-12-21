@@ -1,3 +1,4 @@
+# my global config
 global:
   scrape_interval: 5s
   external_labels:
